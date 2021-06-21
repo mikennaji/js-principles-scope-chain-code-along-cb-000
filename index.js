@@ -17,5 +17,5 @@ function changeLeastFavoriteCustomer(){
 function attemptTwoFavoriteCustomers(){
 let  favoriteCustomer = "people";
 
-let favoriteCustomer = "erry";
+throw new SyntaxError('err', 'blah.js',1);
 }
